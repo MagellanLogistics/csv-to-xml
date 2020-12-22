@@ -132,7 +132,7 @@ cron.schedule("* * * * *", () => {
     // Delete notification's documents that are older than 1 year
     const now = Date.now();
     // Every 10 minutes
-    const cutoff = new Date(now - 10 * 60 * 1000);
+    const cutoff = new Date(now - 365 * 24 * 60 * 60 * 1000);
     db.collection('notifications').orderBy('time').endAt(cutoff).get()
         .then(querySnapshot => querySnapshot.forEach(doc => doc.ref.delete()));
 
