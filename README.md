@@ -9,10 +9,10 @@ Magellan CSV to XML System is a system designed for Magellan Logistics Company t
 5. [Author](#author)
 
 ## Screenshots
-<img src="https://github.com/PhuocHoangMinhNguyen/csv-to-xml/blob/main/screenshots/Home.PNG" width="500" />
-<img src="https://github.com/PhuocHoangMinhNguyen/csv-to-xml/blob/main/screenshots/Notifications.PNG" width="500" />
-<img src="https://github.com/PhuocHoangMinhNguyen/csv-to-xml/blob/main/screenshots/SavedMapping.PNG" width="500" />
-<img src="https://github.com/PhuocHoangMinhNguyen/csv-to-xml/blob/main/screenshots/FTPServers.PNG" width="500" />
+<img src="https://github.com/MagellanLogistics/csv-to-xml/blob/main/screenshots/Home.PNG" width="500" />
+<img src="https://github.com/MagellanLogistics/csv-to-xml/blob/main/screenshots/Notifications.PNG" width="500" />
+<img src="https://github.com/MagellanLogistics/csv-to-xml/blob/main/screenshots/SavedMapping.PNG" width="500" />
+<img src="https://github.com/MagellanLogistics/csv-to-xml/blob/main/screenshots/FTPServers.PNG" width="500" />
 
 ## Technologies and Framework Used
 - Back-end: Node.js
@@ -29,7 +29,7 @@ Magellan CSV to XML System is a system designed for Magellan Logistics Company t
 - Adding Admin Emails. Whenever an error occurs, an email with the error details will be sent to these emails.
 
 ## Installation
-You can gain access to the database using this URL: https://csv-to-xml.herokuapp.com/
+You can gain access to the database using this URL: https://magellan-csv-to-xml.herokuapp.com/
 
 ## Author
 **Phuoc Hoang Minh Nguyen** - *Full-stack Developer* - [PhuocHoangMinhNguyen](https://github.com/PhuocHoangMinhNguyen)
