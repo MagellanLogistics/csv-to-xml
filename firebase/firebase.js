@@ -1,6 +1,6 @@
 // Firebase
 const admin = require('firebase-admin');
-const serviceAccount = require('./csv-to-xml-ee901-firebase-adminsdk-gkkqc-0886dfba26.json');
+const serviceAccount = require('./maglog-csv-to-xml-firebase-adminsdk-6adln-ca4f9f2013.json');
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
